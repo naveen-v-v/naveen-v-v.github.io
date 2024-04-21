@@ -52,7 +52,7 @@ const SkillsContainer = styled.div`
   display: flex;
   flex-wrap: wrap;
   margin-top: 20px;
-  gap: 50px;
+  gap: 40px;
   justify-content: center;
 `;
 const Skill = styled.div`

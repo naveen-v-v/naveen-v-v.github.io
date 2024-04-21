@@ -26,7 +26,7 @@ export const skills = [
           },
           {
             name: "Express Js",
-            image:"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.sv",
+            image:"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg",
           },
           {
             name: "Redis",
@@ -178,7 +178,7 @@ export const skills = [
         {
           name: "Google Colab",
           image:
-            "https://assets.stickpng.com/images/63c2e4c9c4baad4ce22bf9ef.png",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png",
         },
         {
           name: "Sk Learn Kit",
