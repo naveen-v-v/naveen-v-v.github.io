@@ -286,9 +286,9 @@ export const skills = [
   
   export const projects = [
     {
-      id: 11,
+      id: 0,
       title: "ShopPro",
-      date: "Feb 2024 - Present",
+      // date: "Feb 2024 - Present",
       description:
         "A Full Stack Ecommerce website called 'ShopPro', using MongoDB, Express, ReactJS, NodeJS (MERN) packed with essential features for a seamless shopping experience. From the fully functional shopping cart to interactive product reviews and a user-friendly top products carousel, every aspect has been carefully crafted. Customers can easily navigate through products with smooth pagination and a handy search feature, while personalized user profiles keep track of their orders. Behind the scenes, I've developed intuitive admin tools for efficient product, user, and order management. With integrated PayPal and credit card payment options and automated database seeding, I've ensured a hassle-free shopping experience from start to finish.",
       image:
@@ -304,5 +304,24 @@ export const skills = [
       category: "web app",
       github: "https://github.com/venkata-naveen-varma/ecommerce-website",
       webapp: "https://shoppro-qtmo.onrender.com"
+    },
+    {
+      id: 1,
+      title: "Social Media Posts",
+      date: "",
+      description:
+        "I created a dynamic social media platform using the MERN stack, enabling users to share their life events. With full CRUD functionality, users can post, edit, and delete content seamlessly. The application boasts a sleek interface built with React, supported by a robust backend powered by Express and Node.js. It facilitates user engagement with features like commenting and liking posts.",
+      image:
+        "https://github.com/venkata-naveen-varma/Venkata-naveen-varma.github.io/blob/main/public/assets/socialposts.png?raw=true",
+      tags: [
+        "Node Js",
+        "MongoDB",
+        "Express Js",
+        "React Js",
+        "Netlify"
+      ],
+      category: "web app",
+      github: "https://github.com/venkata-naveen-varma/social_posts_application",
+      webapp: "https://playful-kheer-3ff695.netlify.app"
     }
   ];
