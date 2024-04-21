@@ -229,6 +229,7 @@ export const skills = [
       desc: "As a developer, I seamlessly incorporated real-time functionalities into an E-learning platform utilizing the tech stack MongoDB, Node.js, TypeScript, Express.js, and React.js. I played a key role in fostering a dynamic and interactive learning environment. Additionally, I implemented strong user authentication methods, utilizing bcrypt and JSON Web Token (JWT) technologies, to establish a secure data access system and protect student data. Working alongside a 10-person team, I optimized backend operations by improving cache and cookie management, resulting in a notable 20% enhancement in platform responsiveness. Furthermore, I contributed significantly to the development and maintenance of database operations using MongoDB, AWS S3, and Mongoose, ensuring efficient data management for the E-learning platform.",
       skills: [
         "NodeJs",
+        "MongoDB database",
         "ReactJS",
         "Redux",
         "Typescript",
@@ -238,13 +239,36 @@ export const skills = [
         "AWS S3"
       ],
     //   doc: "",
+    },
+    {
+      id: 1,
+      img: "https://github.com/venkata-naveen-varma/Venkata-naveen-varma.github.io/blob/main/public/assets/tcs.jpeg?raw=true",
+      role: "Software Engineer",
+      company: "TCS - Tata Consultancy Services",
+      date: "Aug 2021 - Aug 2022",
+      desc: "Spearheaded revolutionary development initiatives by leveraging AWS cloud lambdas powered by Node.js, and crafting intuitive UIs with React, facilitating seamless integration with IoT devices, APIs, and User Interfaces, thereby elevating overall application functionality. Fostered collaborative synergy within a dynamic six-person team, enhancing project cohesion and driving efficient project execution. Streamlined coding processes through adept utilization of Amazon Web Services tools including AWS CloudWatch, S3 buckets, and the boto3 library, resulting in optimized development workflows. Proficiently administered MySQL databases within an Agile SCRUM environment, ensuring smooth project progression while utilizing JIRA and Bitbucket for streamlined project management and version-controlled code sharing.",
+      skills: [
+        "NodeJs",
+        "MySQL database",
+        "Python",
+        "ReactJS",
+        "Typescript",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "AWS",
+        "S3 Bucket",
+        "AWS Lambda",
+        "AWS API Gateway"
+      ],
+    //   doc: "",
     }
   ];
   
   export const education = [
     {
       id: 0,
-      img: "./images/HeroImage.jpg",
+      img: "https://github.com/venkata-naveen-varma/Venkata-naveen-varma.github.io/blob/main/public/assets/uwindsor_logo.jpeg?raw=true",
       school: "University Of Windsor",
       date: "Sep 2022 - Dec 2023",
       grade: "8.7 CGPA",
@@ -252,7 +276,7 @@ export const skills = [
     },
     {
       id: 1,
-      img: "./images/HeroImage.jpg",
+      img: "https://github.com/venkata-naveen-varma/Venkata-naveen-varma.github.io/blob/main/public/assets/andhra_university.jpeg?raw=true",
       school: "Andhra University",
       date: "July 2017 - April 2021",
       grade: "8.2 CGPA",
