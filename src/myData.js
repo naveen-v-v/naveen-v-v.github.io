@@ -222,7 +222,7 @@ export const skills = [
   export const experiences = [
     {
       id: 0,
-      img: "./images/HeroImage.jpg",
+      img: "https://media.licdn.com/dms/image/C560BAQHRNIJvpKzl5w/company-logo_200_200/0/1649099185850/iqatoms_logo?e=1721865600&v=beta&t=7PLqToduOvOlzXOpYEZrMeRkj-GnWSyzgaL63fcLS9k",
       role: "Full Stack Software Developer",
       company: "IQATOMS",
       date: "Nov 2022 - Present",
@@ -268,7 +268,7 @@ export const skills = [
       description:
         "A Full Stack Ecommerce website called 'ShopPro', using MongoDB, Express, ReactJS, NodeJS (MERN) packed with essential features for a seamless shopping experience. From the fully functional shopping cart to interactive product reviews and a user-friendly top products carousel, every aspect has been carefully crafted. Customers can easily navigate through products with smooth pagination and a handy search feature, while personalized user profiles keep track of their orders. Behind the scenes, I've developed intuitive admin tools for efficient product, user, and order management. With integrated PayPal and credit card payment options and automated database seeding, I've ensured a hassle-free shopping experience from start to finish.",
       image:
-        "./images/HeroImage.jpg",
+        "https://github.com/venkata-naveen-varma/Venkata-naveen-varma.github.io/blob/main/public/assets/shoppro.png?raw=true",
       tags: [
         "Node Js",
         "MongoDB",
