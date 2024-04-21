@@ -222,7 +222,7 @@ export const skills = [
   export const experiences = [
     {
       id: 0,
-      img: "https://media.licdn.com/dms/image/C560BAQHRNIJvpKzl5w/company-logo_200_200/0/1649099185850/iqatoms_logo?e=1721865600&v=beta&t=7PLqToduOvOlzXOpYEZrMeRkj-GnWSyzgaL63fcLS9k",
+      img: "https://github.com/venkata-naveen-varma/Venkata-naveen-varma.github.io/blob/main/public/assets/iqatoms.jpeg?raw=true",
       role: "Full Stack Software Developer",
       company: "IQATOMS",
       date: "Nov 2022 - Present",
