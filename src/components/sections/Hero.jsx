@@ -3,7 +3,7 @@ import styled from "styled-components";
 import { Bio } from "../../myData";
 import Typewriter from "typewriter-effect";
 import HeroImg from "./HeroImage.jpg";
-import HeroBgAnimation from "../HeroBgAnimation";
+// import HeroBgAnimation from "../HeroBgAnimation";
 import { Tilt } from "react-tilt";
 import { motion } from "framer-motion";
 import {
@@ -136,10 +136,10 @@ const ResumeButton = styled.a`
   appearance: button;
   text-decoration: none;
 
-  width: 95%;
+  width: 100%;
   max-width: 300px;
   text-align: center;
-  padding: 16px 0;
+  padding: 16px 18px;
 
   background: hsla(271, 100%, 50%, 1);
   background: linear-gradient(
@@ -181,12 +181,12 @@ const Img = styled.img`
   border-radius: 50%;
   width: 100%;
   height: 100%;
-  max-width: 400px;
+  max-width: 350px;
   max-height: 400px;
   border: 2px solid ${({ theme }) => theme.primary};
 
   @media (max-width: 640px) {
-    max-width: 280px;
+    max-width: 260px;
     max-height: 280px;
   }
 `;
@@ -221,7 +221,7 @@ const Hero = () => {
       <HeroContainer>
         <HeroBg>
           <StarCanvas />
-          <HeroBgAnimation/>
+          {/* <HeroBgAnimation/> */}
         </HeroBg>
 
         <motion.div {...headContainerAnimation}>
