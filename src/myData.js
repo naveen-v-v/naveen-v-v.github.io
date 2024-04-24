@@ -329,7 +329,7 @@ export const skills = [
       title: "Chat application",
       date: "",
       description:
-        "a Chat room application, where users can join the room and share messages and location, making use of web sockets and some other npm modules of nodejs",
+        "A Chat room application, where users can join the room and share messages and location, making use of web sockets and some other npm modules of nodejs",
       image:
         "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*M9sRHsJKHMNqcFnuEN-Viw.png",
       tags: [
