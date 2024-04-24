@@ -163,11 +163,16 @@ const ProjectDetails = ({ openModal, setOpenModal }) => {
             {project.webapp ? (
             <Button href={project.webapp} target="new">
               View Live App
-            </Button>): 
+            </Button>): project.medium ? 
             (
-            <Button href={project.medium} target="new">
-              View Project Blog
-            </Button>
+              <Button href={project.medium} target="new">
+                View Project Blog
+              </Button>
+            ) : 
+            (
+              <Button href={project.postman} target="new">
+                View Project API Doc
+              </Button>
             )}
           </ButtonGroup>
         </Wrapper>
