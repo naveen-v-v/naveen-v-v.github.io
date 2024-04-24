@@ -343,6 +343,24 @@ export const skills = [
       github: "https://github.com/venkata-naveen-varma/chat-application",
       medium: "https://naveen-varma.medium.com/chat-application-using-sockets-nodejs-e7e94277c57c"
     },
+    {
+      id: 3,
+      title: "Task Manager Application",
+      date: "",
+      description:
+        "A Task-manager-app using MongoDb, performing REST API Operations like GET/POST/PATCH/DELETE to play around with the data in MongoDb Database(by performing CRUD Operations) using Nodejs, Express FrameWork.",
+      image:
+        "https://miro.medium.com/v2/resize:fit:1400/format:webp/0*w16Wc77FoVVw9hqz.png",
+      tags: [
+        "Node.js",
+        "MongoDB",
+        "CRUD Operations",
+        "Express.js"
+      ],
+      category: "web app",
+      github: "https://github.com/venkata-naveen-varma/task-manager-app/",
+      postman: "https://documenter.getpostman.com/view/15945431/TzXwEdb9"
+    },
 
   ];
 
