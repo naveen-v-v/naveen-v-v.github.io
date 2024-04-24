@@ -288,7 +288,7 @@ export const skills = [
     {
       id: 0,
       title: "ShopPro",
-      // date: "Feb 2024 - Present",
+      date: "",
       description:
         "A Full Stack Ecommerce website called 'ShopPro', using MongoDB, Express, ReactJS, NodeJS (MERN) packed with essential features for a seamless shopping experience. From the fully functional shopping cart to interactive product reviews and a user-friendly top products carousel, every aspect has been carefully crafted. Customers can easily navigate through products with smooth pagination and a handy search feature, while personalized user profiles keep track of their orders. Behind the scenes, I've developed intuitive admin tools for efficient product, user, and order management. With integrated PayPal and credit card payment options and automated database seeding, I've ensured a hassle-free shopping experience from start to finish.",
       image:
@@ -323,5 +323,42 @@ export const skills = [
       category: "web app",
       github: "https://github.com/venkata-naveen-varma/social_posts_application",
       webapp: "https://playful-kheer-3ff695.netlify.app"
+    }
+  ];
+
+  export const articles = [
+    {
+      id: 0,
+      title: "Hosting an app on AWS EC2: A Simple Guide",
+      date: "April 2024",
+      description:
+        "In this blog post, we’ll walk you through the step-by-step process of deploying your web application to Amazon Web Services (AWS) Elastic Compute Cloud (EC2).",
+      image:"https://miro.medium.com/v2/resize:fit:1400/format:webp/0*Siu16y5l7TMWplCv.jpeg",
+      tags: [
+        "AWS",
+        "EC2 instance",
+        "Nodejs",
+        "Linux",
+        "Ubuntu",
+        "Systemd"
+      ],
+      medium: "https://medium.com/@naveen-varma/hosting-an-app-on-aws-ec2-a-simple-guide-52a01c61a226"
+    },
+    {
+      id: 1,
+      title: "Hosting an app on AWS EC2: A Simple Guide",
+      date: "April 2024",
+      description:
+        "In this blog post, we’ll walk you through the step-by-step process of deploying your web application to Amazon Web Services (AWS) Elastic Compute Cloud (EC2).",
+      image:"https://miro.medium.com/v2/resize:fit:1400/format:webp/0*Siu16y5l7TMWplCv.jpeg",
+      tags: [
+        "AWS",
+        "EC2 instance",
+        "Nodejs",
+        "Linux",
+        "Ubuntu",
+        "Systemd"
+      ],
+      medium: "https://medium.com/@naveen-varma/hosting-an-app-on-aws-ec2-a-simple-guide-52a01c61a226"
     }
   ];
