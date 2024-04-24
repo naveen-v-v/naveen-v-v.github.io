@@ -323,7 +323,27 @@ export const skills = [
       category: "web app",
       github: "https://github.com/venkata-naveen-varma/social_posts_application",
       webapp: "https://playful-kheer-3ff695.netlify.app"
-    }
+    },
+    {
+      id: 2,
+      title: "Chat application",
+      date: "",
+      description:
+        "a Chat room application, where users can join the room and share messages and location, making use of web sockets and some other npm modules of nodejs",
+      image:
+        "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*M9sRHsJKHMNqcFnuEN-Viw.png",
+      tags: [
+        "Node.js",
+        "Socket.io",
+        "Geographic location",
+        "Express.js",
+        "bad-word library"
+      ],
+      category: "web app",
+      github: "https://github.com/venkata-naveen-varma/chat-application",
+      medium: "https://naveen-varma.medium.com/chat-application-using-sockets-nodejs-e7e94277c57c"
+    },
+
   ];
 
   export const articles = [
@@ -346,19 +366,73 @@ export const skills = [
     },
     {
       id: 1,
-      title: "Hosting an app on AWS EC2: A Simple Guide",
-      date: "April 2024",
+      title: "Database Sharding and Multiple Databases Architecture implementation",
+      date: "January 2024",
       description:
-        "In this blog post, we’ll walk you through the step-by-step process of deploying your web application to Amazon Web Services (AWS) Elastic Compute Cloud (EC2).",
-      image:"https://miro.medium.com/v2/resize:fit:1400/format:webp/0*Siu16y5l7TMWplCv.jpeg",
+        "In this article, we dive into the intricacies of Database Sharding and Multiple DB approaches, exploring their benefits, challenges, and how they can be effectively implemented using NodeJS to unlock the potential of data management systems.",
+      image:"https://miro.medium.com/v2/resize:fit:1400/format:webp/0*3v5RsmbTIoNPuwRD.png",
       tags: [
-        "AWS",
-        "EC2 instance",
-        "Nodejs",
-        "Linux",
-        "Ubuntu",
-        "Systemd"
+        "Database",
+        "Sharding",
+        "Virtical Partitions",
+        "Horizontal Partitions",
+        "Key-Based Sharding",
+        "Range-Based Sharding"
       ],
-      medium: "https://medium.com/@naveen-varma/hosting-an-app-on-aws-ec2-a-simple-guide-52a01c61a226"
+      medium: "https://medium.com/@naveen-varma/database-sharding-and-multiple-databases-architecture-implementation-a6ee409c0e47"
+    },
+    {
+      id: 2,
+      title: "Secure User Authentication: A Guide to Sending mobile OTPs via Twilio and Node.js",
+      date: "December 2023",
+      description: "In this article, we explore the power of Twilio and Node.js in seamlessly integrating one-time passwords (OTPs) for mobile authentication. Twilio is an online platform for communication. We may send text messages via SMS, WhatsApp, and email, record voice messages, initiate calls, and initiate chats directly from our application with the Twilio services.",
+      image: "https://miro.medium.com/v2/resize:fit:1400/format:webp/0*Y_RFNgvc0_QThNYt.jpg",
+      tags: ["Nodejs", "Twilio", "OTP", "User authentication"],
+      medium: "https://naveen-varma.medium.com/secure-user-authentication-a-guide-to-sending-mobile-otps-via-twilio-and-node-js-c613df1e3e20"
+    },
+    {
+      id: 3,
+      title: "Large Language Models (LLMs): A Dive into Fine Tuning with Practical Examples",
+      date: "December 2023",
+      description: "In this article, we’ll explore the process of fine-tuning a pre-trained LLM. We’ll begin by introducing essential concepts and techniques for fine-tuning and conclude with a specific example demonstrating how to fine-tune a model locally using Python and Hugging Face’s software ecosystem.",
+      image: "https://miro.medium.com/v2/resize:fit:1400/format:webp/0*ETZxsbEn1ZOtBNEt.png",
+      tags: ["LLM", "Python", "Fine-tune", "Machine Learning", "LoRA"],
+      medium: "https://naveen-varma.medium.com/large-language-models-llms-a-dive-into-fine-tuning-with-practical-examples-1fdbcee00c6f"
+    },
+    {
+      id: 4,
+      title: "Caching Concepts in NodeJS with examples",
+      date: "November 2023",
+      description: "We go through implementation types of caching(In-Memeory and Redis caching) and how to implement them using NodeJS with practical examples.",
+      image: "https://miro.medium.com/v2/resize:fit:1400/format:webp/0*mu6yVOdpdy5GNTUq",
+      tags: ["Redis", "Cache", "In-Memory Cache", "Nodejs", "Expressjs", "postman"],
+      medium: "https://naveen-varma.medium.com/caching-concepts-in-nodejs-with-examples-a5afeb62fcb9"
+    },
+    {
+      id: 5,
+      title: "Google Login (Authentication using Oauth2, Passport, NodeJS)",
+      date: "November 2023",
+      description: "We go through how to login/authenticate users using there google account with the help of passport, Oauth2.",
+      image: "https://miro.medium.com/v2/resize:fit:1400/format:webp/0*qX6f-X7LzdXzQR40.jpeg",
+      tags: ["Oauth2", "passport", "Nodejs", "Expressjs", "User authentication"],
+      medium: "https://naveen-varma.medium.com/google-login-authentication-using-oauth2-passport-nodejs-214bcf0a0bdb"
+    },
+    {
+      id: 6,
+      title: "Chatbot with OpenAI API and NodeJS",
+      description: "We’ll use the ChatGPT API with Node.js to build a versatile chatbot powered by the GPT-3.5 Turbo model. This bot, operating in your terminal, covers a wide range — answering questions, generating code and more. It’s essentially ChatGPT tailored for your application using a Node.js wrapper. This setup provides a handy way to chat directly in your terminal, and it can serve as a base for your own chatbot.",
+      date: "November 2023",
+      image: "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*LAPUQLHwM9Ab9cIUNIrLmw.png",
+      tags: ["OpenAI", "ChatGPT API", "Nodejs"],
+      medium: "https://naveen-varma.medium.com/chatbot-with-openai-api-and-nodejs-7e1efc871604"
+    },
+    {
+      id: 7,
+      title: "Increase Speed of the Nodejs Server using Compression (Gzip)",
+      date: "December 2022",
+      description: "Based on the fact that “Transferring a data of less size is faster when compared to that of a data with more size”, if we reduce the size of the document coming from the server our applications we can make our application faster.",
+      image: "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*1D2rod-tMub4w8ORoTQXeQ.png",
+      tags: ["Gzip", "compress", "Nodejs", "Server", "runtime", "weather app"],
+      medium: "https://medium.com/@naveen-varma/increase-speed-of-the-nodejs-server-using-compression-gzip-5b18e4194127"
     }
   ];
