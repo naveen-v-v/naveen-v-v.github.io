@@ -361,7 +361,82 @@ export const skills = [
       github: "https://github.com/venkata-naveen-varma/task-manager-app/",
       postman: "https://documenter.getpostman.com/view/15945431/TzXwEdb9"
     },
-
+    {
+      id: 4,
+      title: "Real Time Weather App, using NodeJs and external Weather API’s",
+      date: "",
+      description:
+        "A web app that gets the Weather data bsed on users location, using external Weather API’s like WeatherStack API (for weather data), Mapbox API(for longitude, latitude), node and express.",
+      image:
+        "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*x_Xof4pATjCCQpBV7BSOYQ.png",
+      tags: [
+        "Node.js",
+        "WeatherStack API",
+        "MapBox API",
+        "Express.js"
+      ],
+      category: "web app",
+      github: "https://github.com/venkata-naveen-varma/weather_website",
+      webapp: "https://good-rose-crocodile-tie.cyclic.app/"
+    },
+    {
+      id: 5,
+      title: "User Management System",
+      date: "",
+      description:
+        "A user management system using Node.js, Express, Express-Handlebars and MySQL",
+      image:
+        "https://i.ytimg.com/vi/VaUsQ9kb1WI/maxresdefault.jpg",
+      tags: [
+        "Node.js",
+        "MySQL",
+        "Handlebars",
+        "Express.js"
+      ],
+      category: "web app",
+      github: "https://github.com/venkata-naveen-varma/user-management-site",
+      medium: "https://naveen-varma.medium.com/user-management-system-nodejs-express-mysql-handlebards-15cf7131d367"
+    },
+    {
+      id: 6,
+      title: "Heart Disease Risk Prediction using Supervised Machine Learning",
+      date: "",
+      description:
+        "Implementing coronary heart disease prediction model with a dataset by performing several operations like preprocessing data, exploratory analysis, feature selection, SMOTE, Training the model using Machine Learning algorithms namely Logistic Regression, Decision Tree, K-Nearest Neighbor, Support Vector Machine, Testing the model and selecting the best model among them.",
+      image:
+        "https://miro.medium.com/v2/resize:fit:1400/format:webp/0*JJZb9g8Fc2mYnOFW.png",
+      tags: [
+        "Python",
+        "Machine Learning",
+        "Jupyter Notebook",
+        "Decision Tree",
+        "K-Nearest Neighbor",
+        "ML Model Selection",
+        "SMOTE"
+      ],
+      category: "ML",
+      github: "https://github.com/venkata-naveen-varma/heart-disease-risk-prediction-using-supervised-machine-learning",
+      medium: "https://naveen-varma.medium.com/heart-disease-risk-prediction-using-supervised-machine-learning-baaece3649a"
+    },
+    {
+      id: 7,
+      title: "Hand Written Digit Recognition using Deep Neural Networks",
+      date: "",
+      description:
+        "A program to identify handwritten digits from 0 to 9 using basic deep neural networks. We will discuss how to implement this model. Tools used Python, Jupyter Notebook, Keras , Tensorflow, MNIST dataset.",
+      image:
+        "https://miro.medium.com/v2/resize:fit:530/format:webp/1*8yAyYB5yy3Zb5DLlOrRFhw.png",
+      tags: [
+        "Python",
+        "Deep Nueral Networks",
+        "Jupyter Notebook",
+        "Keras",
+        "Tensorflow"
+      ],
+      category: "ML",
+      github: "https://github.com/venkata-naveen-varma/hand-written-digit-recognition",
+      medium: "https://naveen-varma.medium.com/hand-written-digit-recognition-using-deep-neural-networks-with-mnist-dataset-p-4-635bf20cb5e1"
+    },
   ];
 
   export const articles = [
