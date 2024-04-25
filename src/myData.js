@@ -262,6 +262,26 @@ export const skills = [
         "AWS API Gateway"
       ],
     //   doc: "",
+    },
+    {
+      id: 2,
+      img: "https://github.com/venkata-naveen-varma/Venkata-naveen-varma.github.io/blob/main/public/assets/tcs.jpeg?raw=true",
+      role: "Software Intern",
+      company: "TCS - Tata Consultancy Services",
+      date: "May 2021 - July 2021",
+      desc: "Developed autonomous vehicle features using deep learning concepts, Convolutional Neural Networks(CNN), Computer Vision. Collaborated with a team of four students from different universities. Designed features such as lane line detection, traffic sign detection and vehicle detection. Led application with several technologies namely Python, Google-Colab coding platform, data visualization and data pre-processing",
+      skills: [
+        "Machine Learning",
+        "Github",
+        "Python",
+        "CNN",
+        "Numpy",
+        "Computer Vision",
+        "Google Colab",
+        "Data Preprocessing",
+        "Data Visualization"
+      ],
+    //   doc: "",
     }
   ];
   
@@ -409,6 +429,8 @@ export const skills = [
         "Python",
         "Machine Learning",
         "Jupyter Notebook",
+        "Data Preprocessing",
+        "Data Visualization",
         "Decision Tree",
         "K-Nearest Neighbor",
         "ML Model Selection",
@@ -430,6 +452,8 @@ export const skills = [
         "Python",
         "Deep Nueral Networks",
         "Jupyter Notebook",
+        "Data Preprocessing",
+        "Data Visualization",
         "Keras",
         "Tensorflow"
       ],
