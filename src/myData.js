@@ -310,7 +310,7 @@ export const skills = [
       title: "Foodie-Frenzy",
       date: "",
       description:
-        "A food delivery web application named 'foodie-frenzy', tech stack is MERN (MongoDB, Express, Reactjs, Nodejs)",
+        "A food delivery web application named 'foodie-frenzy', tech stack is MERN (MongoDB, Express, Reactjs, Nodejs). Deployed on Render (A website hosting platform). Features include user authentication, login, new user creation, admin features of a food ordering service, food items, payment process using Stripe.",
       image:
         "https://github.com/user-attachments/assets/b1ab13e9-7970-4fe6-b8ce-a077e257d80f",
       tags: [
