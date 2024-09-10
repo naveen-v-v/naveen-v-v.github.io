@@ -307,6 +307,25 @@ export const skills = [
   export const projects = [
     {
       id: 0,
+      title: "Foodie-Frenzy",
+      date: "",
+      description:
+        "A food delivery web application named 'foodie-frenzy', tech stack is MERN (MongoDB, Express, Reactjs, Nodejs)",
+      image:
+        "https://github.com/user-attachments/assets/b1ab13e9-7970-4fe6-b8ce-a077e257d80f",
+      tags: [
+        "Node Js",
+        "MongoDB",
+        "Express Js",
+        "React Js",
+        "Jest"
+      ],
+      category: "web app",
+      github: "https://github.com/venkata-naveen-varma/foodie-frenzy",
+      webapp: "https://foodie-frenzy-frontend.onrender.com"
+    },
+    {
+      id: 1,
       title: "ShopPro",
       date: "",
       description:
@@ -326,7 +345,7 @@ export const skills = [
       webapp: "https://shoppro-qtmo.onrender.com"
     },
     {
-      id: 1,
+      id: 2,
       title: "Social Media Posts",
       date: "",
       description:
@@ -345,7 +364,7 @@ export const skills = [
       webapp: "https://playful-kheer-3ff695.netlify.app"
     },
     {
-      id: 2,
+      id: 3,
       title: "Chat application",
       date: "",
       description:
@@ -364,7 +383,7 @@ export const skills = [
       medium: "https://naveen-varma.medium.com/chat-application-using-sockets-nodejs-e7e94277c57c"
     },
     {
-      id: 3,
+      id: 4,
       title: "Task Manager Application",
       date: "",
       description:
@@ -382,7 +401,7 @@ export const skills = [
       postman: "https://documenter.getpostman.com/view/15945431/TzXwEdb9"
     },
     {
-      id: 4,
+      id: 5,
       title: "Real Time Weather App, using NodeJs and external Weather API’s",
       date: "",
       description:
@@ -400,7 +419,7 @@ export const skills = [
       webapp: "https://good-rose-crocodile-tie.cyclic.app/"
     },
     {
-      id: 5,
+      id: 6,
       title: "User Management System",
       date: "",
       description:
@@ -418,7 +437,7 @@ export const skills = [
       medium: "https://naveen-varma.medium.com/user-management-system-nodejs-express-mysql-handlebards-15cf7131d367"
     },
     {
-      id: 6,
+      id: 7,
       title: "Heart Disease Risk Prediction using Supervised Machine Learning",
       date: "",
       description:
@@ -441,7 +460,7 @@ export const skills = [
       medium: "https://naveen-varma.medium.com/heart-disease-risk-prediction-using-supervised-machine-learning-baaece3649a"
     },
     {
-      id: 7,
+      id: 8,
       title: "Hand Written Digit Recognition using Deep Neural Networks",
       date: "",
       description:
