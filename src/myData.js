@@ -245,7 +245,7 @@ export const skills = [
       img: "https://github.com/venkata-naveen-varma/Venkata-naveen-varma.github.io/blob/main/public/assets/tcs.jpeg?raw=true",
       role: "Software Engineer",
       company: "TCS - Tata Consultancy Services",
-      date: "Aug 2021 - Aug 2022",
+      date: "May 2021 - Aug 2022",
       desc: "Spearheaded revolutionary development initiatives by leveraging AWS cloud lambdas powered by Node.js, and crafting intuitive UIs with React, facilitating seamless integration with IoT devices, APIs, and User Interfaces, thereby elevating overall application functionality. Fostered collaborative synergy within a dynamic six-person team, enhancing project cohesion and driving efficient project execution. Streamlined coding processes through adept utilization of Amazon Web Services tools including AWS CloudWatch, S3 buckets, and the boto3 library, resulting in optimized development workflows. Proficiently administered MySQL databases within an Agile SCRUM environment, ensuring smooth project progression while utilizing JIRA and Bitbucket for streamlined project management and version-controlled code sharing.",
       skills: [
         "NodeJs",
@@ -260,26 +260,6 @@ export const skills = [
         "S3 Bucket",
         "AWS Lambda",
         "AWS API Gateway"
-      ],
-    //   doc: "",
-    },
-    {
-      id: 2,
-      img: "https://github.com/venkata-naveen-varma/Venkata-naveen-varma.github.io/blob/main/public/assets/tcs.jpeg?raw=true",
-      role: "Software Intern",
-      company: "TCS - Tata Consultancy Services",
-      date: "May 2021 - July 2021",
-      desc: "Developed autonomous vehicle features using deep learning concepts, Convolutional Neural Networks(CNN), Computer Vision. Collaborated with a team of four students from different universities. Designed features such as lane line detection, traffic sign detection and vehicle detection. Led application with several technologies namely Python, Google-Colab coding platform, data visualization and data pre-processing",
-      skills: [
-        "Machine Learning",
-        "Github",
-        "Python",
-        "CNN",
-        "Numpy",
-        "Computer Vision",
-        "Google Colab",
-        "Data Preprocessing",
-        "Data Visualization"
       ],
     //   doc: "",
     }
@@ -298,7 +278,7 @@ export const skills = [
       id: 1,
       img: "https://github.com/venkata-naveen-varma/Venkata-naveen-varma.github.io/blob/main/public/assets/andhra_university.jpeg?raw=true",
       school: "Andhra University",
-      date: "July 2017 - April 2021",
+      date: "July 2017 - July 2021",
       grade: "8.2 CGPA",
       degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
     }
