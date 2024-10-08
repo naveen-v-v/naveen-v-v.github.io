@@ -222,11 +222,11 @@ export const skills = [
   export const experiences = [
     {
       id: 0,
-      img: "https://github.com/venkata-naveen-varma/Venkata-naveen-varma.github.io/blob/main/public/assets/iqatoms.jpeg?raw=true",
-      role: "Full Stack Software Developer",
-      company: "IQATOMS",
+      img: "https://github.com/venkata-naveen-varma/Venkata-naveen-varma.github.io/blob/main/public/assets/jkstack.svg?raw=true",
+      role: "Software Developer",
+      company: "Jkstack Technologies Ltd",
       date: "Nov 2022 - Present",
-      desc: "As a developer, I seamlessly incorporated real-time functionalities into an E-learning platform utilizing the tech stack MongoDB, Node.js, TypeScript, Express.js, and React.js. I played a key role in fostering a dynamic and interactive learning environment. Additionally, I implemented strong user authentication methods, utilizing bcrypt and JSON Web Token (JWT) technologies, to establish a secure data access system and protect student data. Working alongside a 10-person team, I optimized backend operations by improving cache and cookie management, resulting in a notable 20% enhancement in platform responsiveness. Furthermore, I contributed significantly to the development and maintenance of database operations using MongoDB, AWS S3, and Mongoose, ensuring efficient data management for the E-learning platform.",
+      desc: "As a developer, I seamlessly incorporated real-time functionalities into an E-learning platform utilizing the tech stack MongoDB, Node.js, TypeScript, Express.js, and React.js. I played a key role in fostering a dynamic and interactive learning environment. Additionally, I implemented strong user authentication methods, utilizing bcrypt and JSON Web Token (JWT) technologies, to establish a secure data access system and protect user data. Working alongside a 10-person team, I optimized backend operations by improving cache and cookie management, resulting in a notable 20% enhancement in platform responsiveness. Furthermore, I contributed significantly to the development and maintenance of database operations using MongoDB, AWS S3, and Mongoose, ensuring efficient data management for the E-learning platform.",
       skills: [
         "NodeJs",
         "MongoDB database",
@@ -278,7 +278,7 @@ export const skills = [
       id: 1,
       img: "https://github.com/venkata-naveen-varma/Venkata-naveen-varma.github.io/blob/main/public/assets/andhra_university.jpeg?raw=true",
       school: "Andhra University",
-      date: "July 2017 - July 2021",
+      date: "July 2017 - May 2021",
       grade: "8.2 CGPA",
       degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
     }
