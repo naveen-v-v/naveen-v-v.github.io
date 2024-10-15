@@ -262,6 +262,25 @@ export const skills = [
         "AWS API Gateway"
       ],
     //   doc: "",
+    },
+    {
+      id: 2,
+      img: "https://github.com/venkata-naveen-varma/Venkata-naveen-varma.github.io/blob/main/public/assets/iqatoms.jpeg?raw=true",
+      role: "Software Developer",
+      company: "IQATOMS",
+      date: "May 2019 - March 2021",
+      desc: "I developed a full-featured e-commerce website using the MERN stack, integrating product reviews, ratings, search, and secure authentication with JWT. I managed a scalable MongoDB Atlas database and built dynamic user profiles for order management, along with admin access for managing products, users, and orders. The platform supports PayPal and credit card payments, features a shopping cart, product pagination, and order status updates. I also created an admin dashboard for easy management and used Redux for state management, ensuring a responsive UI. Database seeders were implemented to streamline development and testing.",
+      skills: [
+        "NodeJs",
+        "MongoDB database",
+        "ReactJS",
+        "Redux",
+        "Typescript",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+    //   doc: "",
     }
   ];
   
