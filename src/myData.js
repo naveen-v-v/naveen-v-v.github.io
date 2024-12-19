@@ -135,37 +135,37 @@ export const skills = [
             "https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png",
         },
         {
-          name: "AWS-Lambda",
+          name: "Lambda",
           image:
             "https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png",
         },
         {
-          name: "AWS-S3",
+          name: "S3",
           image:
             "https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png",
         },
         {
-          name: "AWS-DynamoDB",
+          name: "DynamoDB",
           image:
             "https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png",
         },
         {
-          name: "AWS-API Gateway",
+          name: "API Gateway",
           image:
             "https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png",
         },
         {
-          name: "AWS-CloudFormation",
+          name: "CloudFormation",
           image:
             "https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png",
         },
         {
-          name: "AWS-CloudWatch",
+          name: "CloudWatch",
           image:
             "https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png",
         },
         {
-          name: "AWS-SNS(Simple Notification Service)",
+          name: "SNS(Simple Notification Service)",
           image:
             "https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png",
         },
