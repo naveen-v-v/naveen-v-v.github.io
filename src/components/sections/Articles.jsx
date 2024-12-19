@@ -67,7 +67,7 @@ const Articles = () => {
             marginBottom: "40px",
           }}
         >
-          I create various articles/blogs across a diverse range of topics. Here are a few examples.
+          I create various articles/blogs across a diverse range of topics. Here are a few articles.
         </Desc>
         <CardContainer>
           {articles.map((article) => (
