@@ -1,11 +1,10 @@
 export const Bio = {
     name: "Venkata Vegesna",
     roles: [
-      "Full Stack Developer",
       "Software Engineer",
       "Software Developer",
       "Backend Developer",
-      "Nodejs Developer"
+      "API Developer"
     ],
     description:
       "I am a motivated and versatile developer, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
@@ -27,6 +26,16 @@ export const skills = [
           {
             name: "Express Js",
             image:"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg",
+          },
+          {
+            name: "AWS Lambda",
+            image:
+              "https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png",
+          },
+          {
+            name: "AWS DynamoDB",
+            image:
+              "https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png",
           },
           {
             name: "Redis",
@@ -125,16 +134,51 @@ export const skills = [
           image:
             "https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png",
         },
+        {
+          name: "AWS-Lambda",
+          image:
+            "https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png",
+        },
+        {
+          name: "AWS-S3",
+          image:
+            "https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png",
+        },
+        {
+          name: "AWS-DynamoDB",
+          image:
+            "https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png",
+        },
+        {
+          name: "AWS-API Gateway",
+          image:
+            "https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png",
+        },
+        {
+          name: "AWS-CloudFormation",
+          image:
+            "https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png",
+        },
+        {
+          name: "AWS-CloudWatch",
+          image:
+            "https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png",
+        },
+        {
+          name: "AWS-SNS(Simple Notification Service)",
+          image:
+            "https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png",
+        },
         // {
         //   name: "Google Cloud",
         //   image:
         //     "https://static-00.iconduck.com/assets.00/google-cloud-platform-logo-icon-2048x1824-pg4wzspq.png",
         // },
-        // {
-        //   name: "Docker",
-        //   image:
-        //     "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg",
-        // },
+        {
+          name: "Docker",
+          image:
+            "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg",
+        },
         // {
         //   name: "Jenkins",
         //   image:
