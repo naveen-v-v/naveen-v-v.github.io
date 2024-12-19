@@ -464,6 +464,21 @@ export const skills = [
   export const articles = [
     {
       id: 0,
+      title: "Containerizing using Docker",
+      date: "November 2024",
+      description:
+        "How to containerize an application and create a Docker Compose file for running multiple container along with the networking.",
+      image:"https://miro.medium.com/v2/resize:fit:1400/format:webp/0*m4Easurr6gXUgykC.png",
+      tags: [
+        "Docker",
+        "Docker-Compose",
+        "Containerization",
+        "DockerFile"  
+      ],
+      medium: "https://medium.com/@naveen-varma/containerizing-an-application-and-deploying-using-docker-compose-5e8bb93b2e86"
+    },
+    {
+      id: 1,
       title: "Hosting an app on AWS EC2: A Simple Guide",
       date: "April 2024",
       description:
@@ -480,7 +495,7 @@ export const skills = [
       medium: "https://medium.com/@naveen-varma/hosting-an-app-on-aws-ec2-a-simple-guide-52a01c61a226"
     },
     {
-      id: 1,
+      id: 2,
       title: "Database Sharding and Multiple Databases Architecture implementation",
       date: "January 2024",
       description:
@@ -497,7 +512,7 @@ export const skills = [
       medium: "https://medium.com/@naveen-varma/database-sharding-and-multiple-databases-architecture-implementation-a6ee409c0e47"
     },
     {
-      id: 2,
+      id: 3,
       title: "Secure User Authentication: A Guide to Sending mobile OTPs via Twilio and Node.js",
       date: "December 2023",
       description: "In this article, we explore the power of Twilio and Node.js in seamlessly integrating one-time passwords (OTPs) for mobile authentication. Twilio is an online platform for communication. We may send text messages via SMS, WhatsApp, and email, record voice messages, initiate calls, and initiate chats directly from our application with the Twilio services.",
@@ -506,7 +521,7 @@ export const skills = [
       medium: "https://naveen-varma.medium.com/secure-user-authentication-a-guide-to-sending-mobile-otps-via-twilio-and-node-js-c613df1e3e20"
     },
     {
-      id: 3,
+      id: 4,
       title: "Large Language Models (LLMs): A Dive into Fine Tuning with Practical Examples",
       date: "December 2023",
       description: "In this article, we’ll explore the process of fine-tuning a pre-trained LLM. We’ll begin by introducing essential concepts and techniques for fine-tuning and conclude with a specific example demonstrating how to fine-tune a model locally using Python and Hugging Face’s software ecosystem.",
@@ -515,7 +530,7 @@ export const skills = [
       medium: "https://naveen-varma.medium.com/large-language-models-llms-a-dive-into-fine-tuning-with-practical-examples-1fdbcee00c6f"
     },
     {
-      id: 4,
+      id: 5,
       title: "Caching Concepts in NodeJS with examples",
       date: "November 2023",
       description: "We go through implementation types of caching(In-Memeory and Redis caching) and how to implement them using NodeJS with practical examples.",
@@ -524,7 +539,7 @@ export const skills = [
       medium: "https://naveen-varma.medium.com/caching-concepts-in-nodejs-with-examples-a5afeb62fcb9"
     },
     {
-      id: 5,
+      id: 6,
       title: "Google Login (Authentication using Oauth2, Passport, NodeJS)",
       date: "November 2023",
       description: "We go through how to login/authenticate users using there google account with the help of passport, Oauth2.",
@@ -533,7 +548,7 @@ export const skills = [
       medium: "https://naveen-varma.medium.com/google-login-authentication-using-oauth2-passport-nodejs-214bcf0a0bdb"
     },
     {
-      id: 6,
+      id: 7,
       title: "Chatbot with OpenAI API and NodeJS",
       description: "We’ll use the ChatGPT API with Node.js to build a versatile chatbot powered by the GPT-3.5 Turbo model. This bot, operating in your terminal, covers a wide range — answering questions, generating code and more. It’s essentially ChatGPT tailored for your application using a Node.js wrapper. This setup provides a handy way to chat directly in your terminal, and it can serve as a base for your own chatbot.",
       date: "November 2023",
@@ -542,7 +557,7 @@ export const skills = [
       medium: "https://naveen-varma.medium.com/chatbot-with-openai-api-and-nodejs-7e1efc871604"
     },
     {
-      id: 7,
+      id: 8,
       title: "Increase Speed of the Nodejs Server using Compression (Gzip)",
       date: "December 2022",
       description: "Based on the fact that “Transferring a data of less size is faster when compared to that of a data with more size”, if we reduce the size of the document coming from the server our applications we can make our application faster.",
