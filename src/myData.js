@@ -252,6 +252,25 @@ export const skills = [
   export const experiences = [
     {
       id: 0,
+      img: "https://github.com/venkata-naveen-varma/venkata-naveen-varma/blob/main/mylogo.png?raw=true",
+      role: "Software Developer",
+      company: "Freelance",
+      date: "February 2024 - Present",
+      desc: "As a Freelance Web Developer, I designed and delivered websites for two restaurants, enhancing their digital presence with features like online food ordering, dynamic menu browsing, and admin dashboards for easy updates. Leveraging React.js, Node.js, and MongoDB, I built responsive front-ends, scalable back-ends, and secure databases. I deployed the websites on Heroku, ensuring reliability and scalability, and provided ongoing technical support to maintain performance and client satisfaction.",
+      skills: [
+        "NodeJs",
+        "MongoDB database",
+        "ReactJS",
+        "Typescript",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Heroku"
+      ],
+    //   doc: "",
+    },
+    {
+      id: 1,
       img: "https://github.com/venkata-naveen-varma/Venkata-naveen-varma.github.io/blob/main/public/assets/tcs.jpeg?raw=true",
       role: "Software Engineer",
       company: "TCS - Tata Consultancy Services",
@@ -260,7 +279,6 @@ export const skills = [
       skills: [
         "NodeJs",
         "MySQL database",
-        "Python",
         "ReactJS",
         "Typescript",
         "HTML",
@@ -274,7 +292,7 @@ export const skills = [
     //   doc: "",
     },
     {
-      id: 1,
+      id: 2,
       img: "https://github.com/venkata-naveen-varma/Venkata-naveen-varma.github.io/blob/main/public/assets/iqatoms.jpeg?raw=true",
       role: "Software Developer",
       company: "IQATOMS",
