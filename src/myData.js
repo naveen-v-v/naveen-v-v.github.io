@@ -9,7 +9,7 @@ export const Bio = {
     ],
     description:
       "I am a motivated and versatile developer, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-    github: "https://github.com/venkata-naveen-varma",
+    github: "https://github.com/naveen-v-v",
     resume:
       "https://docs.google.com/document/d/18K4O_4mPyj2-6XjAIFpAho6Nkwpx5rvu8MFctfJ6JAM/edit?usp=sharing",
     linkedin: "https://www.linkedin.com/in/vv-naveen-varma/",
@@ -252,7 +252,7 @@ export const skills = [
   export const experiences = [
     {
       id: 0,
-      img: "https://github.com/venkata-naveen-varma/venkata-naveen-varma/blob/main/mylogo.png?raw=true",
+      img: "https://github.com/naveen-v-v/venkata-naveen-varma/blob/main/mylogo.png?raw=true",
       role: "Software Developer",
       company: "Freelance",
       date: "February 2024 - Present",
@@ -271,7 +271,7 @@ export const skills = [
     },
     {
       id: 1,
-      img: "https://github.com/venkata-naveen-varma/Venkata-naveen-varma.github.io/blob/main/public/assets/tcs.jpeg?raw=true",
+      img: "https://github.com/naveen-v-v/naveen-v-v.github.io/blob/main/public/assets/tcs.jpeg?raw=true",
       role: "Software Engineer",
       company: "TCS - Tata Consultancy Services",
       date: "May 2021 - Aug 2022",
@@ -293,7 +293,7 @@ export const skills = [
     },
     {
       id: 2,
-      img: "https://github.com/venkata-naveen-varma/Venkata-naveen-varma.github.io/blob/main/public/assets/iqatoms.jpeg?raw=true",
+      img: "https://github.com/naveen-v-v/naveen-v-v.github.io/blob/main/public/assets/iqatoms.jpeg?raw=true",
       role: "Software Developer",
       company: "IQATOMS",
       date: "May 2020 - March 2021",
@@ -315,7 +315,7 @@ export const skills = [
   export const education = [
     {
       id: 0,
-      img: "https://github.com/venkata-naveen-varma/Venkata-naveen-varma.github.io/blob/main/public/assets/uwindsor_logo.jpeg?raw=true",
+      img: "https://github.com/naveen-v-v/naveen-v-v.github.io/blob/main/public/assets/uwindsor_logo.jpeg?raw=true",
       school: "University Of Windsor",
       date: "Sep 2022 - Dec 2023",
       grade: "8.7 CGPA",
@@ -323,7 +323,7 @@ export const skills = [
     },
     {
       id: 1,
-      img: "https://github.com/venkata-naveen-varma/Venkata-naveen-varma.github.io/blob/main/public/assets/andhra_university.jpeg?raw=true",
+      img: "https://github.com/naveen-v-v/naveen-v-v.github.io/blob/main/public/assets/andhra_university.jpeg?raw=true",
       school: "Andhra University",
       date: "July 2017 - May 2021",
       grade: "8.2 CGPA",
@@ -348,7 +348,7 @@ export const skills = [
         "Jest"
       ],
       category: "web app",
-      github: "https://github.com/venkata-naveen-varma/foodie-frenzy",
+      github: "https://github.com/naveen-v-v/foodie-frenzy",
       webapp: "https://foodie-frenzy-frontend.onrender.com"
     },
     {
@@ -358,7 +358,7 @@ export const skills = [
       description:
         "A Full Stack Ecommerce website called 'ShopPro', using MongoDB, Express, ReactJS, NodeJS (MERN) packed with essential features for a seamless shopping experience. From the fully functional shopping cart to interactive product reviews and a user-friendly top products carousel, every aspect has been carefully crafted. Customers can easily navigate through products with smooth pagination and a handy search feature, while personalized user profiles keep track of their orders. Behind the scenes, I've developed intuitive admin tools for efficient product, user, and order management. With integrated PayPal and credit card payment options and automated database seeding, I've ensured a hassle-free shopping experience from start to finish.",
       image:
-        "https://github.com/venkata-naveen-varma/Venkata-naveen-varma.github.io/blob/main/public/assets/shoppro.png?raw=true",
+        "https://github.com/naveen-v-v/naveen-v-v.github.io/blob/main/public/assets/shoppro.png?raw=true",
       tags: [
         "Node Js",
         "MongoDB",
@@ -368,7 +368,7 @@ export const skills = [
         "PayPal Payments"
       ],
       category: "web app",
-      github: "https://github.com/venkata-naveen-varma/ecommerce-website",
+      github: "https://github.com/naveen-v-v/ecommerce-website",
       webapp: "https://shoppro-qtmo.onrender.com"
     },
     {
@@ -378,7 +378,7 @@ export const skills = [
       description:
         "I created a dynamic social media platform using the MERN stack, enabling users to share their life events. With full CRUD functionality, users can post, edit, and delete content seamlessly. The application boasts a sleek interface built with React, supported by a robust backend powered by Express and Node.js. It facilitates user engagement with features like commenting and liking posts.",
       image:
-        "https://github.com/venkata-naveen-varma/Venkata-naveen-varma.github.io/blob/main/public/assets/socialposts.png?raw=true",
+        "https://github.com/naveen-v-v/naveen-v-v.github.io/blob/main/public/assets/socialposts.png?raw=true",
       tags: [
         "Node Js",
         "MongoDB",
@@ -387,7 +387,7 @@ export const skills = [
         "Netlify"
       ],
       category: "web app",
-      github: "https://github.com/venkata-naveen-varma/social_posts_application",
+      github: "https://github.com/naveen-v-v/social_posts_application",
       webapp: "https://playful-kheer-3ff695.netlify.app"
     },
     {
@@ -406,7 +406,7 @@ export const skills = [
         "bad-word library"
       ],
       category: "web app",
-      github: "https://github.com/venkata-naveen-varma/chat-application",
+      github: "https://github.com/naveen-v-v/chat-application",
       medium: "https://naveen-varma.medium.com/chat-application-using-sockets-nodejs-e7e94277c57c"
     },
     {
@@ -424,7 +424,7 @@ export const skills = [
         "Express.js"
       ],
       category: "web app",
-      github: "https://github.com/venkata-naveen-varma/task-manager-app/",
+      github: "https://github.com/naveen-v-v/task-manager-app/",
       postman: "https://documenter.getpostman.com/view/15945431/TzXwEdb9"
     },
     {
@@ -442,7 +442,7 @@ export const skills = [
         "Express.js"
       ],
       category: "web app",
-      github: "https://github.com/venkata-naveen-varma/weather_website",
+      github: "https://github.com/naveen-v-v/weather_website",
       webapp: "https://good-rose-crocodile-tie.cyclic.app/"
     },
     {
@@ -460,7 +460,7 @@ export const skills = [
         "Express.js"
       ],
       category: "web app",
-      github: "https://github.com/venkata-naveen-varma/user-management-site",
+      github: "https://github.com/naveen-v-v/user-management-site",
       medium: "https://naveen-varma.medium.com/user-management-system-nodejs-express-mysql-handlebards-15cf7131d367"
     },
     {
@@ -483,7 +483,7 @@ export const skills = [
         "SMOTE"
       ],
       category: "ML",
-      github: "https://github.com/venkata-naveen-varma/heart-disease-risk-prediction-using-supervised-machine-learning",
+      github: "https://github.com/naveen-v-v/heart-disease-risk-prediction-using-supervised-machine-learning",
       medium: "https://naveen-varma.medium.com/heart-disease-risk-prediction-using-supervised-machine-learning-baaece3649a"
     },
     {
@@ -504,7 +504,7 @@ export const skills = [
         "Tensorflow"
       ],
       category: "ML",
-      github: "https://github.com/venkata-naveen-varma/hand-written-digit-recognition",
+      github: "https://github.com/naveen-v-v/hand-written-digit-recognition",
       medium: "https://naveen-varma.medium.com/hand-written-digit-recognition-using-deep-neural-networks-with-mnist-dataset-p-4-635bf20cb5e1"
     },
   ];
