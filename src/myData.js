@@ -256,7 +256,7 @@ export const skills = [
       role: "Software Developer",
       company: "JKStack Technologies",
       date: "October 2022 - Present",
-      desc: "As a Freelance Web Developer, I designed and delivered websites for two restaurants, enhancing their digital presence with features like online food ordering, dynamic menu browsing, and admin dashboards for easy updates. Leveraging React.js, Node.js, and MongoDB, I built responsive front-ends, scalable back-ends, and secure databases. I deployed the websites on Heroku, ensuring reliability and scalability, and provided ongoing technical support to maintain performance and client satisfaction.",
+      desc: "I develop scalable back-end systems using Node.js and design patterns while integrating real-time features with MongoDB, React.js, and TypeScript. I improve platform performance by 20% through effective caching and optimization techniques. I implement secure user authentication using JWT and bcrypt, ensuring robust data protection. I create responsive and reusable UI components with React.js, enhancing user experience. I ensure application reliability and quality through rigorous testing using Jest, Supertest, and Postman.",
       skills: [
         "NodeJs",
         "MongoDB database",
