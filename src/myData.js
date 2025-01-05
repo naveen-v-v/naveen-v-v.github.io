@@ -252,7 +252,7 @@ export const skills = [
   export const experiences = [
     {
       id: 0,
-      img: "https://github.com/naveen-v-v/venkata-naveen-varma/blob/main/mylogo.png?raw=true",
+      img: "https://www.jkstacktechnologies.com/images/Jk-Logo.svg",
       role: "Software Developer",
       company: "JKStack Technologies",
       date: "October 2022 - Present",
