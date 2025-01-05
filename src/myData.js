@@ -13,7 +13,7 @@ export const Bio = {
     resume:
       "https://docs.google.com/document/d/18K4O_4mPyj2-6XjAIFpAho6Nkwpx5rvu8MFctfJ6JAM/edit?usp=sharing",
     linkedin: "https://www.linkedin.com/in/naveen-v-v/",
-    medium: "https://medium.com/@naveen-varma",
+    medium: "https://medium.com/@naveen-v-v",
   };
   
 export const skills = [
@@ -399,7 +399,7 @@ export const skills = [
       ],
       category: "web app",
       github: "https://github.com/naveen-v-v/chat-application",
-      medium: "https://naveen-varma.medium.com/chat-application-using-sockets-nodejs-e7e94277c57c"
+      medium: "https://naveen-v-v.medium.com/chat-application-using-sockets-nodejs-e7e94277c57c"
     },
     {
       id: 4,
@@ -453,7 +453,7 @@ export const skills = [
       ],
       category: "web app",
       github: "https://github.com/naveen-v-v/user-management-site",
-      medium: "https://naveen-varma.medium.com/user-management-system-nodejs-express-mysql-handlebards-15cf7131d367"
+      medium: "https://naveen-v-v.medium.com/user-management-system-nodejs-express-mysql-handlebards-15cf7131d367"
     },
     {
       id: 7,
@@ -476,7 +476,7 @@ export const skills = [
       ],
       category: "ML",
       github: "https://github.com/naveen-v-v/heart-disease-risk-prediction-using-supervised-machine-learning",
-      medium: "https://naveen-varma.medium.com/heart-disease-risk-prediction-using-supervised-machine-learning-baaece3649a"
+      medium: "https://naveen-v-v.medium.com/heart-disease-risk-prediction-using-supervised-machine-learning-baaece3649a"
     },
     {
       id: 8,
@@ -497,7 +497,7 @@ export const skills = [
       ],
       category: "ML",
       github: "https://github.com/naveen-v-v/hand-written-digit-recognition",
-      medium: "https://naveen-varma.medium.com/hand-written-digit-recognition-using-deep-neural-networks-with-mnist-dataset-p-4-635bf20cb5e1"
+      medium: "https://naveen-v-v.medium.com/hand-written-digit-recognition-using-deep-neural-networks-with-mnist-dataset-p-4-635bf20cb5e1"
     },
   ];
 
@@ -515,7 +515,7 @@ export const skills = [
         "Containerization",
         "DockerFile"  
       ],
-      medium: "https://medium.com/@naveen-varma/containerizing-an-application-and-deploying-using-docker-compose-5e8bb93b2e86"
+      medium: "https://medium.com/@naveen-v-v/containerizing-an-application-and-deploying-using-docker-compose-5e8bb93b2e86"
     },
     {
       id: 1,
@@ -532,7 +532,7 @@ export const skills = [
         "Ubuntu",
         "Systemd"
       ],
-      medium: "https://medium.com/@naveen-varma/hosting-an-app-on-aws-ec2-a-simple-guide-52a01c61a226"
+      medium: "https://medium.com/@naveen-v-v/hosting-an-app-on-aws-ec2-a-simple-guide-52a01c61a226"
     },
     {
       id: 2,
@@ -549,7 +549,7 @@ export const skills = [
         "Key-Based Sharding",
         "Range-Based Sharding"
       ],
-      medium: "https://medium.com/@naveen-varma/database-sharding-and-multiple-databases-architecture-implementation-a6ee409c0e47"
+      medium: "https://medium.com/@naveen-v-v/database-sharding-and-multiple-databases-architecture-implementation-a6ee409c0e47"
     },
     {
       id: 3,
@@ -558,7 +558,7 @@ export const skills = [
       description: "In this article, we explore the power of Twilio and Node.js in seamlessly integrating one-time passwords (OTPs) for mobile authentication. Twilio is an online platform for communication. We may send text messages via SMS, WhatsApp, and email, record voice messages, initiate calls, and initiate chats directly from our application with the Twilio services.",
       image: "https://miro.medium.com/v2/resize:fit:1400/format:webp/0*Y_RFNgvc0_QThNYt.jpg",
       tags: ["Nodejs", "Twilio", "OTP", "User authentication"],
-      medium: "https://naveen-varma.medium.com/secure-user-authentication-a-guide-to-sending-mobile-otps-via-twilio-and-node-js-c613df1e3e20"
+      medium: "https://naveen-v-v.medium.com/secure-user-authentication-a-guide-to-sending-mobile-otps-via-twilio-and-node-js-c613df1e3e20"
     },
     {
       id: 4,
@@ -567,7 +567,7 @@ export const skills = [
       description: "In this article, we’ll explore the process of fine-tuning a pre-trained LLM. We’ll begin by introducing essential concepts and techniques for fine-tuning and conclude with a specific example demonstrating how to fine-tune a model locally using Python and Hugging Face’s software ecosystem.",
       image: "https://miro.medium.com/v2/resize:fit:1400/format:webp/0*ETZxsbEn1ZOtBNEt.png",
       tags: ["LLM", "Python", "Fine-tune", "Machine Learning", "LoRA"],
-      medium: "https://naveen-varma.medium.com/large-language-models-llms-a-dive-into-fine-tuning-with-practical-examples-1fdbcee00c6f"
+      medium: "https://naveen-v-v.medium.com/large-language-models-llms-a-dive-into-fine-tuning-with-practical-examples-1fdbcee00c6f"
     },
     {
       id: 5,
@@ -576,7 +576,7 @@ export const skills = [
       description: "We go through implementation types of caching(In-Memeory and Redis caching) and how to implement them using NodeJS with practical examples.",
       image: "https://miro.medium.com/v2/resize:fit:1400/format:webp/0*mu6yVOdpdy5GNTUq",
       tags: ["Redis", "Cache", "In-Memory Cache", "Nodejs", "Expressjs", "postman"],
-      medium: "https://naveen-varma.medium.com/caching-concepts-in-nodejs-with-examples-a5afeb62fcb9"
+      medium: "https://naveen-v-v.medium.com/caching-concepts-in-nodejs-with-examples-a5afeb62fcb9"
     },
     {
       id: 6,
@@ -585,7 +585,7 @@ export const skills = [
       description: "We go through how to login/authenticate users using there google account with the help of passport, Oauth2.",
       image: "https://miro.medium.com/v2/resize:fit:1400/format:webp/0*qX6f-X7LzdXzQR40.jpeg",
       tags: ["Oauth2", "passport", "Nodejs", "Expressjs", "User authentication"],
-      medium: "https://naveen-varma.medium.com/google-login-authentication-using-oauth2-passport-nodejs-214bcf0a0bdb"
+      medium: "https://naveen-v-v.medium.com/google-login-authentication-using-oauth2-passport-nodejs-214bcf0a0bdb"
     },
     {
       id: 7,
@@ -594,7 +594,7 @@ export const skills = [
       date: "November 2023",
       image: "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*LAPUQLHwM9Ab9cIUNIrLmw.png",
       tags: ["OpenAI", "ChatGPT API", "Nodejs"],
-      medium: "https://naveen-varma.medium.com/chatbot-with-openai-api-and-nodejs-7e1efc871604"
+      medium: "https://naveen-v-v.medium.com/chatbot-with-openai-api-and-nodejs-7e1efc871604"
     },
     {
       id: 8,
@@ -603,6 +603,6 @@ export const skills = [
       description: "Based on the fact that “Transferring a data of less size is faster when compared to that of a data with more size”, if we reduce the size of the document coming from the server our applications we can make our application faster.",
       image: "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*1D2rod-tMub4w8ORoTQXeQ.png",
       tags: ["Gzip", "compress", "Nodejs", "Server", "runtime", "weather app"],
-      medium: "https://medium.com/@naveen-varma/increase-speed-of-the-nodejs-server-using-compression-gzip-5b18e4194127"
+      medium: "https://medium.com/@naveen-v-v/increase-speed-of-the-nodejs-server-using-compression-gzip-5b18e4194127"
     }
   ];
