@@ -1,5 +1,5 @@
 export const Bio = {
-    name: "Venkata Vegesna",
+    name: "Naveen V",
     roles: [
       "Full Stack Developer",
       "Software Engineer",
@@ -12,7 +12,7 @@ export const Bio = {
     github: "https://github.com/naveen-v-v",
     resume:
       "https://docs.google.com/document/d/18K4O_4mPyj2-6XjAIFpAho6Nkwpx5rvu8MFctfJ6JAM/edit?usp=sharing",
-    linkedin: "https://www.linkedin.com/in/vv-naveen-varma/",
+    linkedin: "https://www.linkedin.com/in/naveen-v-v/",
     medium: "https://medium.com/@naveen-varma",
   };
   
@@ -254,8 +254,8 @@ export const skills = [
       id: 0,
       img: "https://github.com/naveen-v-v/venkata-naveen-varma/blob/main/mylogo.png?raw=true",
       role: "Software Developer",
-      company: "Freelance",
-      date: "February 2024 - Present",
+      company: "JKStack Technologies",
+      date: "October 2022 - Present",
       desc: "As a Freelance Web Developer, I designed and delivered websites for two restaurants, enhancing their digital presence with features like online food ordering, dynamic menu browsing, and admin dashboards for easy updates. Leveraging React.js, Node.js, and MongoDB, I built responsive front-ends, scalable back-ends, and secure databases. I deployed the websites on Heroku, ensuring reliability and scalability, and provided ongoing technical support to maintain performance and client satisfaction.",
       skills: [
         "NodeJs",
@@ -296,7 +296,7 @@ export const skills = [
       img: "https://github.com/naveen-v-v/naveen-v-v.github.io/blob/main/public/assets/iqatoms.jpeg?raw=true",
       role: "Software Developer",
       company: "IQATOMS",
-      date: "May 2020 - March 2021",
+      date: "April 2020 - March 2021",
       desc: "I developed a full-featured e-commerce website using the MERN stack, integrating product reviews, ratings, search, and secure authentication with JWT. I managed a scalable MongoDB Atlas database and built dynamic user profiles for order management, along with admin access for managing products, users, and orders. The platform supports PayPal and credit card payments, features a shopping cart, product pagination, and order status updates. I also created an admin dashboard for easy management and used Redux for state management, ensuring a responsive UI. Database seeders were implemented to streamline development and testing.",
       skills: [
         "NodeJs",
@@ -315,14 +315,6 @@ export const skills = [
   export const education = [
     {
       id: 0,
-      img: "https://github.com/naveen-v-v/naveen-v-v.github.io/blob/main/public/assets/uwindsor_logo.jpeg?raw=true",
-      school: "University Of Windsor",
-      date: "Sep 2022 - Dec 2023",
-      grade: "8.7 CGPA",
-      degree: "Master Of Appiled Computing (Computer Science)",
-    },
-    {
-      id: 1,
       img: "https://github.com/naveen-v-v/naveen-v-v.github.io/blob/main/public/assets/andhra_university.jpeg?raw=true",
       school: "Andhra University",
       date: "July 2017 - May 2021",
