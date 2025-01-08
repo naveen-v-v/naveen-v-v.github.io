@@ -274,7 +274,7 @@ export const skills = [
       img: "https://github.com/naveen-v-v/naveen-v-v.github.io/blob/main/public/assets/tcs.jpeg?raw=true",
       role: "Software Engineer",
       company: "TCS - Tata Consultancy Services",
-      date: "May 2021 - Aug 2022",
+      date: "Aug 2021 - Aug 2022",
       desc: "Spearheaded revolutionary development initiatives by leveraging AWS cloud lambdas powered by Node.js, and crafting intuitive UIs with React, facilitating seamless integration with IoT devices, APIs, and User Interfaces, thereby elevating overall application functionality. Fostered collaborative synergy within a dynamic six-person team, enhancing project cohesion and driving efficient project execution. Streamlined coding processes through adept utilization of Amazon Web Services tools including AWS CloudWatch, S3 buckets, and the boto3 library, resulting in optimized development workflows. Proficiently administered MySQL databases within an Agile SCRUM environment, ensuring smooth project progression while utilizing JIRA and Bitbucket for streamlined project management and version-controlled code sharing.",
       skills: [
         "NodeJs",
@@ -296,7 +296,7 @@ export const skills = [
       img: "https://github.com/naveen-v-v/naveen-v-v.github.io/blob/main/public/assets/iqatoms.jpeg?raw=true",
       role: "Software Developer",
       company: "IQATOMS",
-      date: "April 2020 - March 2021",
+      date: "April 2020 - May 2021",
       desc: "I developed a full-featured e-commerce website using the MERN stack, integrating product reviews, ratings, search, and secure authentication with JWT. I managed a scalable MongoDB Atlas database and built dynamic user profiles for order management, along with admin access for managing products, users, and orders. The platform supports PayPal and credit card payments, features a shopping cart, product pagination, and order status updates. I also created an admin dashboard for easy management and used Redux for state management, ensuring a responsive UI. Database seeders were implemented to streamline development and testing.",
       skills: [
         "NodeJs",
@@ -317,7 +317,7 @@ export const skills = [
       id: 0,
       img: "https://github.com/naveen-v-v/naveen-v-v.github.io/blob/main/public/assets/andhra_university.jpeg?raw=true",
       school: "Andhra University",
-      date: "July 2017 - May 2021",
+      date: "July 2017 - July 2021",
       grade: "8.2 CGPA",
       degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
     }
