@@ -315,6 +315,14 @@ export const skills = [
   export const education = [
     {
       id: 0,
+      img: "https://github.com/naveen-v-v/naveen-v-v.github.io/blob/main/public/assets/uwindsor_logo.jpeg?raw=true",
+      school: "University of Windsor",
+      date: "Sep 2022 - Dec 2023",
+      grade: "8.7 CGPA",
+      degree: "Master of Applied Computing - MAC, Computer Science",
+    },
+    {
+      id: 1,
       img: "https://github.com/naveen-v-v/naveen-v-v.github.io/blob/main/public/assets/andhra_university.jpeg?raw=true",
       school: "Andhra University",
       date: "July 2017 - July 2021",
