@@ -7,11 +7,9 @@ export const Bio = {
       "Backend Developer",
       "API Developer"
     ],
-    description:
-      "I am a motivated and versatile developer, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    description: "I am a motivated and versatile developer, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/naveen-v-v",
-    resume:
-      "https://docs.google.com/document/d/18K4O_4mPyj2-6XjAIFpAho6Nkwpx5rvu8MFctfJ6JAM/edit?usp=sharing",
+    // resume: "https://docs.google.com/document/d/18K4O_4mPyj2-6XjAIFpAho6Nkwpx5rvu8MFctfJ6JAM/edit?usp=sharing",
     linkedin: "https://www.linkedin.com/in/naveen-v-v/",
     medium: "https://medium.com/@naveen-v-v",
   };
