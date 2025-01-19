@@ -252,10 +252,10 @@ export const skills = [
   export const experiences = [
     {
       id: 0,
-      img: "https://www.jkstacktechnologies.com/images/Jk-Logo.svg",
-      role: "Software Developer",
-      company: "JKStack Technologies",
-      date: "October 2022 - Present",
+      img: "https://media.licdn.com/dms/image/v2/D4E0BAQH3oj32srZDhw/company-logo_100_100/company-logo_100_100/0/1719926592217/cibc_logo?e=1745452800&v=beta&t=ZOCcMN2UeVQIgEMiGFOJEGVbYQZCKs5esWpESyH1QJc",
+      role: "Full Stack Developer",
+      company: "CIBC",
+      date: "December 2022 - Present",
       desc: "I develop scalable back-end systems using Node.js and design patterns while integrating real-time features with MongoDB, React.js, and TypeScript. I improve platform performance by 20% through effective caching and optimization techniques. I implement secure user authentication using JWT and bcrypt, ensuring robust data protection. I create responsive and reusable UI components with React.js, enhancing user experience. I ensure application reliability and quality through rigorous testing using Jest, Supertest, and Postman.",
       skills: [
         "NodeJs",
@@ -271,10 +271,10 @@ export const skills = [
     },
     {
       id: 1,
-      img: "https://github.com/naveen-v-v/naveen-v-v.github.io/blob/main/public/assets/tcs.jpeg?raw=true",
+      img: "https://acko-brand.ackoassets.com/brand/vector-svg/gradient/horizontal-reverse.svg",
       role: "Software Engineer",
-      company: "TCS - Tata Consultancy Services",
-      date: "Aug 2021 - Aug 2022",
+      company: "Acko General Insurance",
+      date: "Sep 2021 - Sep 2022",
       desc: "Spearheaded revolutionary development initiatives by leveraging AWS cloud lambdas powered by Node.js, and crafting intuitive UIs with React, facilitating seamless integration with IoT devices, APIs, and User Interfaces, thereby elevating overall application functionality. Fostered collaborative synergy within a dynamic six-person team, enhancing project cohesion and driving efficient project execution. Streamlined coding processes through adept utilization of Amazon Web Services tools including AWS CloudWatch, S3 buckets, and the boto3 library, resulting in optimized development workflows. Proficiently administered MySQL databases within an Agile SCRUM environment, ensuring smooth project progression while utilizing JIRA and Bitbucket for streamlined project management and version-controlled code sharing.",
       skills: [
         "NodeJs",
@@ -295,8 +295,8 @@ export const skills = [
       id: 2,
       img: "https://github.com/naveen-v-v/naveen-v-v.github.io/blob/main/public/assets/iqatoms.jpeg?raw=true",
       role: "Software Developer",
-      company: "IQATOMS",
-      date: "April 2020 - May 2021",
+      company: "ValueLabs",
+      date: "August 2019 - Sep 2021",
       desc: "I developed a full-featured e-commerce website using the MERN stack, integrating product reviews, ratings, search, and secure authentication with JWT. I managed a scalable MongoDB Atlas database and built dynamic user profiles for order management, along with admin access for managing products, users, and orders. The platform supports PayPal and credit card payments, features a shopping cart, product pagination, and order status updates. I also created an admin dashboard for easy management and used Redux for state management, ensuring a responsive UI. Database seeders were implemented to streamline development and testing.",
       skills: [
         "NodeJs",
@@ -313,16 +313,16 @@ export const skills = [
   ];
   
   export const education = [
+    // {
+    //   id: 0,
+    //   img: "https://github.com/naveen-v-v/naveen-v-v.github.io/blob/main/public/assets/uwindsor_logo.jpeg?raw=true",
+    //   school: "University of Windsor",
+    //   date: "Sep 2022 - Dec 2023",
+    //   grade: "8.7 CGPA",
+    //   degree: "Master of Applied Computing - MAC, Computer Science",
+    // },
     {
       id: 0,
-      img: "https://github.com/naveen-v-v/naveen-v-v.github.io/blob/main/public/assets/uwindsor_logo.jpeg?raw=true",
-      school: "University of Windsor",
-      date: "Sep 2022 - Dec 2023",
-      grade: "8.7 CGPA",
-      degree: "Master of Applied Computing - MAC, Computer Science",
-    },
-    {
-      id: 1,
       img: "https://github.com/naveen-v-v/naveen-v-v.github.io/blob/main/public/assets/andhra_university.jpeg?raw=true",
       school: "Andhra University",
       date: "July 2017 - July 2021",
