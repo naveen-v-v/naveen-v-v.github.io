@@ -258,7 +258,7 @@ export const skills = [
       date: "October 2022 - Present",
       // desc: "I develop scalable back-end systems using Node.js and design patterns while integrating real-time features with MongoDB, React.js, and TypeScript. I improve platform performance by 20% through effective caching and optimization techniques. I implement secure user authentication using JWT and bcrypt, ensuring robust data protection. I create responsive and reusable UI components with React.js, enhancing user experience. I ensure application reliability and quality through rigorous testing using Jest, Supertest, and Postman.",
       skills: [
-        "Spring Boot", "Node", "React", "Angular", "Java"
+        "Spring Boot", "Node", "React", "Angular", "Java", "MySQL", "MongoDB"
       ],
     //   doc: "",
     },
