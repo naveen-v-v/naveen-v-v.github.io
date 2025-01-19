@@ -293,7 +293,7 @@ export const skills = [
     },
     {
       id: 2,
-      img: "https://media.licdn.com/dms/image/v2/D4D0BAQGlmfDGwVxhhA/company-logo_100_100/company-logo_100_100/0/1691492864169/valuelabs_logo?e=1745452800&v=beta&t=7RV2LZd4ute4eLjFnVizL1rbEDj6kv2nJ2pg-7IPbCE",
+      img: "https://github.com/naveen-v-v/naveen-v-v.github.io/blob/main/public/assets/acko-logo.png?raw=true",
       role: "Software Developer",
       company: "ValueLabs",
       date: "August 2019 - Sep 2021",
