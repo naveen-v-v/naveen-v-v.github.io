@@ -271,7 +271,7 @@ export const skills = [
     },
     {
       id: 1,
-      img: "https://acko-brand.ackoassets.com/brand/vector-svg/gradient/horizontal-reverse.svg",
+      img: "https://github.com/naveen-v-v/naveen-v-v.github.io/blob/main/public/assets/acko-logo.png?raw=true",
       role: "Software Engineer",
       company: "Acko General Insurance",
       date: "Sep 2021 - Sep 2022",
@@ -293,7 +293,7 @@ export const skills = [
     },
     {
       id: 2,
-      img: "https://github.com/naveen-v-v/naveen-v-v.github.io/blob/main/public/assets/acko-logo.png?raw=true",
+      img: "https://media.licdn.com/dms/image/v2/D4D0BAQGlmfDGwVxhhA/company-logo_100_100/company-logo_100_100/0/1691492864169/valuelabs_logo?e=1745452800&v=beta&t=7RV2LZd4ute4eLjFnVizL1rbEDj6kv2nJ2pg-7IPbCE",
       role: "Software Developer",
       company: "ValueLabs",
       date: "August 2019 - Sep 2021",
