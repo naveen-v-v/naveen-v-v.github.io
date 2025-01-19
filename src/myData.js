@@ -255,7 +255,7 @@ export const skills = [
       img: "https://media.licdn.com/dms/image/v2/D4E0BAQH3oj32srZDhw/company-logo_100_100/company-logo_100_100/0/1719926592217/cibc_logo?e=1745452800&v=beta&t=ZOCcMN2UeVQIgEMiGFOJEGVbYQZCKs5esWpESyH1QJc",
       role: "Full Stack Developer",
       company: "CIBC",
-      date: "December 2022 - Present",
+      date: "October 2022 - Present",
       // desc: "I develop scalable back-end systems using Node.js and design patterns while integrating real-time features with MongoDB, React.js, and TypeScript. I improve platform performance by 20% through effective caching and optimization techniques. I implement secure user authentication using JWT and bcrypt, ensuring robust data protection. I create responsive and reusable UI components with React.js, enhancing user experience. I ensure application reliability and quality through rigorous testing using Jest, Supertest, and Postman.",
       skills: [
         "NodeJs",
