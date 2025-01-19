@@ -256,7 +256,7 @@ export const skills = [
       role: "Full Stack Developer",
       company: "CIBC",
       date: "December 2022 - Present",
-      desc: "I develop scalable back-end systems using Node.js and design patterns while integrating real-time features with MongoDB, React.js, and TypeScript. I improve platform performance by 20% through effective caching and optimization techniques. I implement secure user authentication using JWT and bcrypt, ensuring robust data protection. I create responsive and reusable UI components with React.js, enhancing user experience. I ensure application reliability and quality through rigorous testing using Jest, Supertest, and Postman.",
+      // desc: "I develop scalable back-end systems using Node.js and design patterns while integrating real-time features with MongoDB, React.js, and TypeScript. I improve platform performance by 20% through effective caching and optimization techniques. I implement secure user authentication using JWT and bcrypt, ensuring robust data protection. I create responsive and reusable UI components with React.js, enhancing user experience. I ensure application reliability and quality through rigorous testing using Jest, Supertest, and Postman.",
       skills: [
         "NodeJs",
         "MongoDB database",
@@ -275,7 +275,7 @@ export const skills = [
       role: "Software Engineer",
       company: "Acko General Insurance",
       date: "Sep 2021 - Sep 2022",
-      desc: "Spearheaded revolutionary development initiatives by leveraging AWS cloud lambdas powered by Node.js, and crafting intuitive UIs with React, facilitating seamless integration with IoT devices, APIs, and User Interfaces, thereby elevating overall application functionality. Fostered collaborative synergy within a dynamic six-person team, enhancing project cohesion and driving efficient project execution. Streamlined coding processes through adept utilization of Amazon Web Services tools including AWS CloudWatch, S3 buckets, and the boto3 library, resulting in optimized development workflows. Proficiently administered MySQL databases within an Agile SCRUM environment, ensuring smooth project progression while utilizing JIRA and Bitbucket for streamlined project management and version-controlled code sharing.",
+      // desc: "Spearheaded revolutionary development initiatives by leveraging AWS cloud lambdas powered by Node.js, and crafting intuitive UIs with React, facilitating seamless integration with IoT devices, APIs, and User Interfaces, thereby elevating overall application functionality. Fostered collaborative synergy within a dynamic six-person team, enhancing project cohesion and driving efficient project execution. Streamlined coding processes through adept utilization of Amazon Web Services tools including AWS CloudWatch, S3 buckets, and the boto3 library, resulting in optimized development workflows. Proficiently administered MySQL databases within an Agile SCRUM environment, ensuring smooth project progression while utilizing JIRA and Bitbucket for streamlined project management and version-controlled code sharing.",
       skills: [
         "NodeJs",
         "MySQL database",
@@ -297,7 +297,7 @@ export const skills = [
       role: "Software Developer",
       company: "ValueLabs",
       date: "August 2019 - Sep 2021",
-      desc: "I developed a full-featured e-commerce website using the MERN stack, integrating product reviews, ratings, search, and secure authentication with JWT. I managed a scalable MongoDB Atlas database and built dynamic user profiles for order management, along with admin access for managing products, users, and orders. The platform supports PayPal and credit card payments, features a shopping cart, product pagination, and order status updates. I also created an admin dashboard for easy management and used Redux for state management, ensuring a responsive UI. Database seeders were implemented to streamline development and testing.",
+      // desc: "I developed a full-featured e-commerce website using the MERN stack, integrating product reviews, ratings, search, and secure authentication with JWT. I managed a scalable MongoDB Atlas database and built dynamic user profiles for order management, along with admin access for managing products, users, and orders. The platform supports PayPal and credit card payments, features a shopping cart, product pagination, and order status updates. I also created an admin dashboard for easy management and used Redux for state management, ensuring a responsive UI. Database seeders were implemented to streamline development and testing.",
       skills: [
         "NodeJs",
         "MongoDB database",
