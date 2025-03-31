@@ -80,7 +80,7 @@ const Footer = () => {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo> Venkata Naveen Varma Vegesna </Logo>
+        <Logo> Venakta Naveen V </Logo>
         <Nav>
           <NavLink href="#About">About</NavLink>
           <NavLink href="#Skills">Skills</NavLink>
