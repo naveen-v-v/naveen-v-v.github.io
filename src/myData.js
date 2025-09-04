@@ -321,7 +321,7 @@ export const skills = [
       id: 0,
       img: "https://github.com/naveen-v-v/naveen-v-v.github.io/blob/main/public/assets/andhra_university.jpeg?raw=true",
       school: "Andhra University",
-      date: "July 2017 - July 2021",
+      date: "Aug 2017 - April 2021",
       grade: "8.2 CGPA",
       degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
     }
@@ -329,7 +329,7 @@ export const skills = [
   
   export const projects = [
     {
-      id: 0,
+      id: 1,
       title: "Foodie-Frenzy",
       date: "",
       description:
@@ -348,7 +348,7 @@ export const skills = [
       webapp: "https://foodie-frenzy-frontend.onrender.com"
     },
     {
-      id: 1,
+      id: 0,
       title: "ShopPro",
       date: "",
       description:
