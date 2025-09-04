@@ -80,9 +80,9 @@ const Contact = () => {
           Feel free to reach out to me for any questions or opportunities!
         </Desc>
         <SocialMediaIcons>
-          <SocialMediaIcon href={Bio.linkedin} target="display">
+          {/* <SocialMediaIcon href={Bio.linkedin} target="display">
             <FontAwesomeIcon icon={faLinkedinIn} />
-          </SocialMediaIcon>
+          </SocialMediaIcon> */}
           <SocialMediaIcon href={Bio.medium} target="display">
             <FontAwesomeIcon icon={faMedium} />
           </SocialMediaIcon>
