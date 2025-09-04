@@ -51,7 +51,7 @@ function App() {
               <Hero />
               <Wrapper>
                 <Skills />
-                <Experience />
+                {/* <Experience /> */}
               </Wrapper>
               <Projects openModal={openModal} setOpenModal={setOpenModal} />
               <Articles/>
