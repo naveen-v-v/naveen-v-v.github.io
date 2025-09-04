@@ -321,7 +321,7 @@ export const skills = [
       id: 0,
       img: "https://github.com/naveen-v-v/naveen-v-v.github.io/blob/main/public/assets/andhra_university.jpeg?raw=true",
       school: "Andhra University",
-      date: "Aug 2017 - April 2021",
+      date: "",
       grade: "8.2 CGPA",
       degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
     }
