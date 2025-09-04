@@ -2,7 +2,8 @@ import React from "react";
 import styled from "styled-components";
 import { Bio } from "../../myData";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faMedium, faLinkedinIn } from '@fortawesome/free-brands-svg-icons';
+import { faMedium } from '@fortawesome/free-brands-svg-icons';
+// import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons';
 
 const Container = styled.div`
   display: flex;
