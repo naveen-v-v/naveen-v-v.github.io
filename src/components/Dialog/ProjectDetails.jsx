@@ -98,6 +98,7 @@ const ButtonGroup = styled.div`
   display: flex;
   justify-content: flex-end;
   margin: 12px 0px;
+  // margin-top: 20px;
   gap: 12px;
 `;
 
@@ -156,7 +157,6 @@ const ProjectDetails = ({ openModal, setOpenModal }) => {
               <Tag>{tag}</Tag>
             ))}
           </Tags>
-          <Desc>{project?.description}</Desc>
           <ButtonGroup>
             <Button dull href={project?.github} target="new">
               View Code
@@ -176,6 +176,7 @@ const ProjectDetails = ({ openModal, setOpenModal }) => {
               </Button>
             )}
           </ButtonGroup>
+          <Desc>{project?.description}</Desc>
         </Wrapper>
       </Container>
     </Modal>
