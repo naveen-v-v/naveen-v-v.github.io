@@ -439,7 +439,7 @@ export const skills = [
       ],
       category: "web app",
       github: "https://github.com/naveen-v-v/weather_website",
-      webapp: "https://good-rose-crocodile-tie.cyclic.app/"
+      webapp: "https://weather-website-xujq.onrender.com"
     },
     {
       id: 6,
