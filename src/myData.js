@@ -23,6 +23,10 @@ export const skills = [
             image: "https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge",
           },
           {
+            name: "Apache Kafka",
+            image: "https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg",
+          },
+          {
             name: "Node Js",
             image: "https://nodejs.org/static/images/logo.svg",
           },
