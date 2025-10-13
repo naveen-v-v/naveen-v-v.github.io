@@ -23,10 +23,6 @@ export const skills = [
             image: "https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge",
           },
           {
-            name: "Hibernate",
-            image: "https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff&style=for-the-badge",
-          },
-          {
             name: "Node Js",
             image: "https://nodejs.org/static/images/logo.svg",
           },
@@ -55,24 +51,6 @@ export const skills = [
               "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
           },
           {
-            name: "MySQL",
-            image:
-              "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
-          },
-          {
-            name: "Postgresql",
-            image: "https://www.postgresql.org/media/img/about/press/elephant.png",
-          },
-          {
-            name: "MongoDB",
-            image:
-              "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
-          },
-          {
-            name: "Firebase",
-            image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
-          },
-          {
             name: "Flask",
             image:
               "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1280px-Flask_logo.svg.png",
@@ -88,6 +66,33 @@ export const skills = [
             "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"
           }
         ],
+    },
+    {
+      title: "Database",
+      skills: [
+        {
+          name: "Hibernate",
+          image: "https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff&style=for-the-badge",
+        },
+        {
+          name: "MySQL",
+          image:
+            "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
+        },
+        {
+          name: "Postgresql",
+          image: "https://www.postgresql.org/media/img/about/press/elephant.png",
+        },
+        {
+          name: "MongoDB",
+          image:
+            "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
+        },
+        {
+          name: "Firebase",
+          image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
+        },
+      ],
     },
     {
       title: "Amazon Web Services (AWS)",
