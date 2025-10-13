@@ -351,7 +351,7 @@ export const skills = [
   export const projects = [
     {
       id: 0,
-      title: "Patient Management System",
+      title: "Patient Management System (In progress...)",
       date: "",
       description:
         "A web app application used to manage patients built using Springboot, Kafka, Postgres, REST and gRPC API",
