@@ -363,11 +363,12 @@ export const skills = [
         "Kafka",
         "PostgreSQL",
         "REST API",
-        "gRPC API"
+        "gRPC API",
+        "Docker"
       ],
       category: "web app",
       github: "https://github.com/naveen-v-v/patient-management-system",
-      // webapp: "https://foodie-frenzy-frontend.onrender.com"
+      webapp: "https://github.com/naveen-v-v/patient-management-system"
     },
     {
       id: 1,
