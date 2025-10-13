@@ -19,6 +19,14 @@ export const skills = [
         title: "Backend",
         skills: [
           {
+            name: "Spring Boot",
+            image: "https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge",
+          },
+          {
+            name: "Hibernate",
+            image: "https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff&style=for-the-badge",
+          },
+          {
             name: "Node Js",
             image: "https://nodejs.org/static/images/logo.svg",
           },
