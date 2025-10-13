@@ -71,10 +71,6 @@ export const skills = [
       title: "Database",
       skills: [
         {
-          name: "Hibernate",
-          image: "https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff&style=for-the-badge",
-        },
-        {
           name: "MySQL",
           image:
             "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
@@ -87,6 +83,14 @@ export const skills = [
           name: "MongoDB",
           image:
             "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
+        },
+        {
+          name: "Spring JPA",
+          image: "https://spring.io/img/projects/spring-data.svg",
+        },
+        {
+          name: "Hibernate",
+          image: "https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff&style=for-the-badge",
         },
         {
           name: "Firebase",
