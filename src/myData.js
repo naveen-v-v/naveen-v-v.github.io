@@ -351,22 +351,23 @@ export const skills = [
   export const projects = [
     {
       id: 0,
-      title: "Foodie-Frenzy",
+      title: "Patient Management System",
       date: "",
       description:
-        "A food delivery web application named 'foodie-frenzy', tech stack is MERN (MongoDB, Express, Reactjs, Nodejs). Deployed on Render (A website hosting platform). Features include user authentication, login, new user creation, admin features of a food ordering service, food items, payment process using Stripe.",
+        "A web app application used to manage patients built using Springboot, Kafka, Postgres, REST and gRPC API",
       image:
-        "https://github.com/user-attachments/assets/b1ab13e9-7970-4fe6-b8ce-a077e257d80f",
+        "https://github.com/naveen-v-v/patient-management-system/blob/main/architectures/kafka-architecture.png?raw=true",
       tags: [
-        "Node Js",
-        "MongoDB",
-        "Express Js",
-        "React Js",
-        "Jest"
+        "Java",
+        "Spring Boot",
+        "Kafka",
+        "PostgreSQL",
+        "REST API",
+        "gRPC API"
       ],
       category: "web app",
-      github: "https://github.com/naveen-v-v/foodie-frenzy",
-      webapp: "https://foodie-frenzy-frontend.onrender.com"
+      github: "https://github.com/naveen-v-v/patient-management-system",
+      // webapp: "https://foodie-frenzy-frontend.onrender.com"
     },
     {
       id: 1,
